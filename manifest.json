@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "bvolvy.CustomLogo",
+    "name": "Custom Logo",
+    "description": "Replace the default Jellyfin logo with a custom image.",
+    "overview": "Replace the default Jellyfin logo with a custom image.",
+    "owner": "bvolvy",
+    "category": "General",
+    "imageUrl": "https://raw.githubusercontent.com/bvolvy/CustomLogoPlugin/main/static/icon.png",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "targetAbi": "10.10.0.0",
+        "sourceUrl": "https://github.com/bvolvy/CustomLogoPlugin/archive/refs/tags/v1.0.0.zip",
+        "checksum": "CD225C0BECB8F2734C6EE9B4608EF39233EBFBACE70240A2EEDDBEFF3461DA60",
+        "timestamp": "2025-04-30T23:00:00Z"
+      }
+    ]
+  }
+]
